@@ -9,7 +9,5 @@ Hi there! 👋 I'm Aadil Raza<br><br>About Me<br>I'm a passionate developer with
 ![](https://streak-stats.demolab.com/?user=aadilraza339&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=aadilraza339&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=aadilraza339&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
